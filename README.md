@@ -1,7 +1,7 @@
 ### Hi there I'm Aykut👋
 
 ### - 🎓I graduated Department of Physic at Kocaeli University
-### - I’m currently learning C#
+### - 💻I’m currently learning C#
 ### - 💻I’m currently working on ReCapProject [BackEnd](https://github.com/aykut-coskun/ReCapProject)
 
  
