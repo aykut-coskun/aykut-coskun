@@ -18,6 +18,12 @@
 <a href="mailto:aykut.coskun1991@gmail.com" target="_blank" rel="nofollow"><img alt="Aykut's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 
+# 🔨 Technologies & Tools
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+
+
+
+
 
 
 
