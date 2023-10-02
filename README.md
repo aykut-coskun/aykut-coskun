@@ -20,8 +20,9 @@
 
 
 # 🔨 Technologies & Tools
-<img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Python-5C2D91?style=for-the-badge&logo=python&logoColor=white"></img>
 
 
 
