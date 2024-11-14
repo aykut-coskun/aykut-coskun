@@ -2,8 +2,8 @@
 
 ### - 🎓I graduated Department of Physics at Kocaeli University
 ### - 💻I’m currently learning Java
-### - 💻I’m working on Java2022 [BackEnd](https://github.com/aykut-coskun/Java2022) 
 
+### - 👉All of my projects are available at [all repository.](https://github.com/aykut-coskun?tab=repositories)
 
  
 
